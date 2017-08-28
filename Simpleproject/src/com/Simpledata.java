@@ -14,6 +14,7 @@ public class Simpledata extends Extradata {
 	private static void Displaydata() {
 	   System.out.println("HI");
 	   System.out.println("HELLO");
+	   System.out.println("how r u");
 		
 	}
 
